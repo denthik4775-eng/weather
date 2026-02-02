@@ -15,7 +15,7 @@ from telegram.ext import (
 )
 
 
-BOT_TOKEN = "8216114774:AAHvmxCht79fVCFMnM14WqO2FOkBF5QxLx4" 
+BOT_TOKEN = "------------" 
 DATA_FILE = "weather_users_v5.json"
 
 
@@ -264,3 +264,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
